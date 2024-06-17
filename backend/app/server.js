@@ -11,7 +11,7 @@ dotenv.config();
 class Application {
   #app = express();
   #PORT = process.env.PORT || 5000;
-  #DB_URI = "mongodb+srv://root:Test123!!@cluster0.l5hqsqm.mongodb.net";
+  #DB_URI = "mongodb+srv://root:Test123!!@cluster0.l5hqsqm.mongodb.net/react-freelancer-app?retryWrites=true&w=majority&appName=Cluster0";
 
   constructor() {
     this.createServer();
