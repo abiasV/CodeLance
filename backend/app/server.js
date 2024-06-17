@@ -37,7 +37,7 @@ class Application {
   }
   configServer() {
     this.#app.use(
-      cors({ credentials: true, origin: ["https://codelance-mern-front.vercel.app/"], methods: ["POST", "GET"] })
+      cors({ credentials: true, origin: ["https://codelance-mern-front.vercel.app"], methods: ["POST", "GET"] })
     );
     this.#app.use(express.json());
     this.#app.use(express.urlencoded({ extended: true }));
