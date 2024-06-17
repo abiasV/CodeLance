@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { Button, Input, Textarea, Typography } from "@material-tailwind/react";
+import { Link } from 'react-router-dom';
 
 const LINKS = [
 	{
@@ -70,11 +71,11 @@ const Home = () => {
 					<p className="md:text-xl text-lg mb-6">
 						The talent you need. The flexibility and location you want.
 					</p>
-					<a href="/auth">
+					<Link to="/auth">
 						<button className="btn btn--primary mr-4">
 							Find flexible jobs
 						</button>
-					</a>
+					</Link>
 					<a href="/auth">
 						<button className="btn btn--primary">Hire Talent</button>
 					</a>
