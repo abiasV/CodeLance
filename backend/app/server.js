@@ -11,7 +11,7 @@ dotenv.config();
 class Application {
   #app = express();
   #PORT = process.env.PORT || 5000;
-  #DB_URI = process.env.APP_DB;
+  #DB_URI = "mongodb+srv://root:Test123!!@cluster0.l5hqsqm.mongodb.net";
 
   constructor() {
     this.createServer();
@@ -37,7 +37,7 @@ class Application {
   }
   configServer() {
     this.#app.use(
-      cors({ credentials: true, origin: process.env.ALLOW_CORS_ORIGIN, methods: ["POST", "GET"] })
+      cors({ credentials: true, origin: ["https://deploy-mern-codelance.vercel.app"], methods: ["POST", "GET"] })
     );
     this.#app.use(express.json());
     this.#app.use(express.urlencoded({ extended: true }));
