@@ -37,7 +37,7 @@ class Application {
   }
   configServer() {
     this.#app.use(
-      cors({ credentials: true, origin: process.env.ALLOW_CORS_ORIGIN })
+      cors({ credentials: true, origin: process.env.ALLOW_CORS_ORIGIN, methods: ["POST", "GET"] })
     );
     this.#app.use(express.json());
     this.#app.use(express.urlencoded({ extended: true }));
