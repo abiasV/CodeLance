@@ -58,7 +58,7 @@ const Home = () => {
 				</div>
 			</nav>
 
-			<section id="home" className="h-[calc(100vh-74px)] overflow-auto bg-fixed flex items-center bg-[linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.1)),url('/img/1.png')] bg-center bg-cover bg-no-repeat">
+			<section id="home" className="h-[calc(100vh-74px)] overflow-auto bg-fixed flex items-center bg-[linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.1)),url('./../img/1.png')] bg-center bg-cover bg-no-repeat">
 				<div className="md:w-1/2 text-center text-white p-8">
 					<h1 className="text-4xl md:text-6xl font-bold mb-4">
 						Work with the best talent you can find in CodeLance
