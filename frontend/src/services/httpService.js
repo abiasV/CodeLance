@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://deploy-mern-codelance.vercel.app/api";
+const BASE_URL = "https://codelance-mern-back.vercel.app/api";
 
 const app = axios.create({
   baseURL: BASE_URL,
