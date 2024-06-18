@@ -73,9 +73,10 @@ In the Proposals section, The admin has access to view all Proposals created by 
 Once the user approved by the admin, whose status in the database has changed from 1 to 2 indicating approval, logs in again, they are greeted with a welcome message and gain access to their dashboard as a freelancer. << In the displayed message, I should change the old name "FreelanceHub" to the new name "CodeLance". >> <br>
 ![Verify Phone Number](./frontend/public/asset/16.png)
 
-In the Projects section the Freelancer has access to view all projects created by all employers.
+In the Projects section the Freelancer has access to view all projects created by all employers. <br>
 ![Header](./frontend/public/asset/17.png)
 
+The freelancer can only see the proposals that they themselves have proposed in their proposals section, along with the status of each proposal. (whether the employer has approved it or not) <br>
 ![Verify Phone Number](./frontend/public/asset/18.png)
 
 ![Verify Phone Number](./frontend/public/asset/19.png)
