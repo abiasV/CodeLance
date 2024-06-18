@@ -64,15 +64,16 @@ Here, after clicking on "Change Status" and styling with a modal popup, a window
 The status of the new user (Abbas) has been changed to "approved".
 ![Verify Phone Number](./frontend/public/asset/13.png)
 
-In the Projects section, The admin has access to view all projects created by all owners. <br>
+In the Projects section, the admin has access to view all projects created by all owners. <br>
 ![Header](./frontend/public/asset/14.png)
 
 In the Proposals section, The admin has access to view all Proposals created by all Freelancer. <br>
 ![Verify Phone Number](./frontend/public/asset/15.png)
 
-Once the user approved by the admin, whose status in the database has changed from 1 to 2 indicating approval, logs in again, they are greeted with a welcome message and gain access to their dashboard as a freelancer. << In the displayed message, I should change the old name "FreelanceHub" to the new name "CodeLens". >> <br>
+Once the user approved by the admin, whose status in the database has changed from 1 to 2 indicating approval, logs in again, they are greeted with a welcome message and gain access to their dashboard as a freelancer. << In the displayed message, I should change the old name "FreelanceHub" to the new name "CodeLance". >> <br>
 ![Verify Phone Number](./frontend/public/asset/16.png)
 
+In the Projects section the Freelancer has access to view all projects created by all employers.
 ![Header](./frontend/public/asset/17.png)
 
 ![Verify Phone Number](./frontend/public/asset/18.png)
