@@ -70,6 +70,7 @@ In the Projects section, The admin has access to view all projects created by al
 In the Proposals section, The admin has access to view all Proposals created by all Freelancer. <br>
 ![Verify Phone Number](./frontend/public/asset/15.png)
 
+Once the user approved by the admin, whose status in the database has changed from 1 to 2 indicating approval, logs in again, they are greeted with a welcome message and gain access to their dashboard as a freelancer. << In the displayed message, I should change the old name "FreelanceHub" to the new name "CodeLens". >> <br>
 ![Verify Phone Number](./frontend/public/asset/16.png)
 
 ![Header](./frontend/public/asset/17.png)
