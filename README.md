@@ -47,7 +47,7 @@ After entering your details and role, click on "Verify User"<br>
 As you can see, Now your information has been completed successfully but your profile is pendig approval. Now, we need to wait for the admin to log into their user panel and approve the user in the relevant section. <br>
 ![Header](./frontend/public/asset/8.png)
 
-In the image below, you can see the database up to this stage where after role determination, isActive changes from false to true, the role changes from USER to FREELANCER, and the fields email and name are also added. <br>
+In the image below, you can see the database up to this stage where after role determination, isActive changes from false to true, the role changes from USER to FREELANCER, and the fields email and name are also added. However, until the admin approves the user, its status remains at the default value of 1. In this database, 1 signifies Pending Approval, 0 signifies Rejected, and 2 signifies Approved. <br>
 ![Verify Phone Number](./frontend/public/asset/9.png)
 
 ![Verify Phone Number](./frontend/public/asset/10.png)
