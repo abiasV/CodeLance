@@ -26,7 +26,7 @@ npm install twilio
 Enter your Phone Number:
 ![Enter your Phone Number](./frontend/public/asset/1.png)
 
-A toast message confirms that the one-time password has been sent to the entered mobile number. After entering it, click Verify. Be aware that if it takes more than 90 seconds, the sent code will expire, and you will need to click the Re-send OTP link that appears after 90 seconds instead of the countdown timer.
+A toast message confirms that the one-time password has been sent to the entered mobile number. After entering it, click Verify. Be aware that if it takes more than 90 seconds, the sent code will expire, and you will need to click the Re-send OTP link that appears after 90 seconds instead of the countdown timer. <br />
 ![Verify Phone Number](./frontend/public/asset/2.png)
 
 Displaying the addition of a user in MongoDB <br>
