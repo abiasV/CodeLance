@@ -2,7 +2,7 @@
 DevLance is a web platform designed to connect employers with skilled freelancers for project collaboration.
 
 # Live Website
-![Frontend:](./frontend/public/asset/00.png)
+![Frontend](./frontend/public/asset/00.png)
 
 
 # Demo
