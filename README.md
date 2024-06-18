@@ -50,8 +50,10 @@ As you can see, Now your information has been completed successfully but your pr
 In the image below, you can see the database up to this stage where after role determination, isActive changes from false to true, the role changes from USER to FREELANCER, and the fields email and name are also added. However, until the admin approves the user, its status remains at the default value of 1. In this database, 1 signifies Pending Approval, 0 signifies Rejected, and 2 signifies Approved. <br>
 ![Verify Phone Number](./frontend/public/asset/9.png)
 
+Here, the user Fahimeh logs into her admin panel. You see the statistics page displaying the number of users, projects, and proposals. <br>
 ![Verify Phone Number](./frontend/public/asset/10.png)
 
+Enter the users section, find the user who has recently joined the site, and click on "Change Status. <br>
 ![Header](./frontend/public/asset/11.png)
 
 ![Verify Phone Number](./frontend/public/asset/12.png)
