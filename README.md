@@ -61,10 +61,13 @@ Here, after clicking on "Change Status" and styling with a modal popup, a window
 
 ![Verify Phone Number](./frontend/public/asset/12.png)
 
+The status of the new user (Abbas) has been changed to "approved".
 ![Verify Phone Number](./frontend/public/asset/13.png)
 
+In the Projects section, The admin has access to view all projects created by all owners. <br>
 ![Header](./frontend/public/asset/14.png)
 
+In the Proposals section, The admin has access to view all Proposals created by all Freelancer. <br>
 ![Verify Phone Number](./frontend/public/asset/15.png)
 
 ![Verify Phone Number](./frontend/public/asset/16.png)
