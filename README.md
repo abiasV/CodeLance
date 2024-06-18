@@ -41,7 +41,7 @@ After entering a valid code, you will be redirected to the next page where you n
 At this stage, the value of isVerifiedPhoneNumber in the database changes from false to true, but isActive remains false until the user provides more complete information along with their role on this website.<br>
 ![Verify Phone Number](./frontend/public/asset/6.png)
 
-After entering your details and role, click on "Verify User"
+After entering your details and role, click on "Verify User"<br>
 ![Verify Phone Number](./frontend/public/asset/7.png)
 
 ![Header](./frontend/public/asset/8.png)
