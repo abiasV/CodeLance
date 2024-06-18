@@ -1,7 +1,11 @@
 import { useState } from "react";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { Button, Input, Textarea, Typography } from "@material-tailwind/react";
+<<<<<<< HEAD
 import { Link } from 'react-router-dom'
+=======
+import { Link } from 'react-router-dom';
+>>>>>>> 7877bfe840695eceb0f64c689c6a17c4264bb70e
 
 const LINKS = [
 	{
@@ -76,9 +80,13 @@ const Home = () => {
 							Find flexible jobs
 						</button>
 					</Link>
+<<<<<<< HEAD
 					<a href="/auth">
+=======
+					<Link to="/auth">
+>>>>>>> 7877bfe840695eceb0f64c689c6a17c4264bb70e
 						<button className="btn btn--primary">Hire Talent</button>
-					</a>
+					</Link>
 				</div>
 			</section>
 
