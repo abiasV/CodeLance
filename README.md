@@ -1,13 +1,15 @@
 # CodeLance
+
 DevLance is a web platform designed to connect employers with skilled freelancers for project collaboration.
 
 # Live Website: 
+
 ### Deploy on Vercel: https://codelance-mern-front-jd6mapdm3-abbas-projects-d1e5aa36.vercel.app/
 ![live website](./frontend/public/asset/CodeLance-Frontend.png)
 
 # Demo
 
-- When we click on one of the links on the main page (image above), we are redirected to the "auth" page, which is the login page. In this project, I have used the Twilio API to send and validate one-time password(OTP) via SMS to a specified mobile number, you can use the Twilio API. You should first verify a number that you own to use it as the 'To' number for outbound messages from the Sandbox Number.
+When we click on one of the links on the main page (image above), we are redirected to the "auth" page, which is the login page. In this project, I have used the Twilio API to send and validate one-time password(OTP) via SMS to a specified mobile number, you can use the Twilio API. You should first verify a number that you own to use it as the 'To' number for outbound messages from the Sandbox Number.
 ![Verify Phone Number](./frontend/public/asset/35.png)
 
 - Sign Up for Twilio:
@@ -20,13 +22,14 @@ DevLance is a web platform designed to connect employers with skilled freelancer
 ```
 npm install twilio
 ```
-Enter your Phone Number
+
+Enter your Phone Number:
 ![Enter your Phone Number](./frontend/public/asset/1.png)
 
 A toast message confirms that the one-time password has been sent to the entered mobile number. After entering it, click Verify. Be aware that if it takes more than 90 seconds, the sent code will expire, and you will need to click the Re-send OTP link that appears after 90 seconds instead of the countdown timer.
 ![Verify Phone Number](./frontend/public/asset/2.png)
 
-Displaying the addition of a user in MongoDB
+Displaying the addition of a user in MongoDB <br>
 ![add user in MongoDB](./frontend/public/asset/3.png)
 
 After 90 seconds, I entered the code and encountered an error message stating that the code has expired. As instructed, I clicked on the "Re-send OTP" link, received the new code, and entered it.
