@@ -57,7 +57,8 @@ Enter the users section, find the user who has recently joined the site, and cli
 ![Header](./frontend/public/asset/11.png)
 
 Here, after clicking on "Change Status" and styling with a modal popup, a window appears. By clicking on the cross (close) symbol or clicking anywhere outside the box, you can close the window and cancel the operation. Alternatively, by selecting one of the three status options, you can specify the user's status. <br>
-<h3>I have written this custom hook for the backdrop and used it in various contexts such as clicking on edit, delete, or changing proposal status.</h3>
+<h6>I have written this custom hook for the backdrop and used it in various contexts such as clicking on edit, delete, or changing proposal status.</h6>
+
 ![Verify Phone Number](./frontend/public/asset/12.png)
 
 ![Verify Phone Number](./frontend/public/asset/13.png)
