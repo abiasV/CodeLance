@@ -20,18 +20,25 @@ DevLance is a web platform designed to connect employers with skilled freelancer
 ```
 npm install twilio
 ```
-![Header](./frontend/public/asset/1.png)
+Enter your Phone Number
+![Enter your Phone Number](./frontend/public/asset/1.png)
 
-![Header](./frontend/public/asset/2.png)
+A toast message confirms that the one-time password has been sent to the entered mobile number. After entering it, click Verify. Be aware that if it takes more than 90 seconds, the sent code will expire, and you will need to click the Re-send OTP link that appears after 90 seconds instead of the countdown timer.
+![Verify Phone Number](./frontend/public/asset/2.png)
 
-![Verify Phone Number](./frontend/public/asset/3.png)
+Displaying the addition of a user in MongoDB
+![add user in MongoDB](./frontend/public/asset/3.png)
 
-![Verify Phone Number](./frontend/public/asset/4.png)
+After 90 seconds, I entered the code and encountered an error message stating that the code has expired. As instructed, I clicked on the "Re-send OTP" link, received the new code, and entered it.
+![Expiration code](./frontend/public/asset/4.png)
 
-![Header](./frontend/public/asset/5.png)
+After entering a valid code, you will be redirected to the next page where you need to enter your name, email, and role (either freelancer or owner).
+![More information](./frontend/public/asset/5.png)
 
+At this stage, the value of isVerifiedPhoneNumber in the database changes from false to true, but isActive remains false until the user provides more complete information along with their role on this website.
 ![Verify Phone Number](./frontend/public/asset/6.png)
 
+After entering your details and role, click on "Verify User"
 ![Verify Phone Number](./frontend/public/asset/7.png)
 
 ![Header](./frontend/public/asset/8.png)
