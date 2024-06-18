@@ -17,7 +17,9 @@ DevLance is a web platform designed to connect employers with skilled freelancer
 
 - Install Twilio SDK:
     Install the Twilio Node.js package by running:
-
+```
+npm install twilio
+```
 
 ![Header](./frontend/public/asset/1.png)
 CodeLance-Frontend
