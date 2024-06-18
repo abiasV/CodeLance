@@ -1,8 +1,7 @@
 # CodeLance
 DevLance is a web platform designed to connect employers with skilled freelancers for project collaboration.
 
-# Live Website: Deploy frontend on Vercel: 
-https://codelance-mern-front-jd6mapdm3-abbas-projects-d1e5aa36.vercel.app/
+# Live Website: Deploy frontend on Vercel: **https://codelance-mern-front-jd6mapdm3-abbas-projects-d1e5aa36.vercel.app/
 ![live website](./frontend/public/asset/CodeLance-Frontend.png)
 
 # Demo
