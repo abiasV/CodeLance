@@ -38,7 +38,7 @@ After 90 seconds, I entered the code and encountered an error message stating th
 After entering a valid code, you will be redirected to the next page where you need to enter your name, email, and role (either freelancer or owner).<br>
 ![More information](./frontend/public/asset/5.png)
 
-At this stage, the value of isVerifiedPhoneNumber in the database changes from false to true, but isActive remains false until the user provides more complete information along with their role on this website.<br>
+At this stage, the value of isVerifiedPhoneNumber in the database changes from false to true, but isActive remains false until the user provides more complete information along with their role on this website and as you can see in the picture, until the role is determined, I have considered everyone's role as "USER" by default.<br>
 ![Verify Phone Number](./frontend/public/asset/6.png)
 
 After entering your details and role, click on "Verify User"<br>
