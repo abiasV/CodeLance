@@ -44,7 +44,7 @@ At this stage, the value of isVerifiedPhoneNumber in the database changes from f
 After entering your details and role, click on "Verify User"<br>
 ![Verify Phone Number](./frontend/public/asset/7.png)
 
-As you can see, Now your information has been completed successfully but your profile is pendig approval. <br>
+As you can see, Now your information has been completed successfully but your profile is pendig approval. Now, we need to wait for the admin to log into their user panel and approve the user in the relevant section. <br>
 ![Header](./frontend/public/asset/8.png)
 
 ![Verify Phone Number](./frontend/public/asset/9.png)
