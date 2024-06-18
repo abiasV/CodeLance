@@ -76,9 +76,9 @@ const Home = () => {
 							Find flexible jobs
 						</button>
 					</Link>
-					<a href="/auth">
+					<Link to="/auth">
 						<button className="btn btn--primary">Hire Talent</button>
-					</a>
+					</Link>
 				</div>
 			</section>
 
