@@ -97,10 +97,10 @@ By clicking on one of the proposals for a project that has not been assigned, we
 Here we see that two freelancers have submitted proposals for this project. Their status is set to "Pending Approval" by default. The owner needs to review these proposals and approve one based on their requirements.
 ![Verify Phone Number](./frontend/public/asset/24.png)
 
-After making a decision and selecting one of the proposals, the owner clicks on the "Change Status" link for the chosen proposal.
+After making a decision and selecting one of the proposals, the owner clicks on the "Change Status" link for the chosen proposal. As with previous similar actions, the owner selects one of the available options.
 ![Verify Phone Number](./frontend/public/asset/25.png)
 
-As with previous similar actions, the owner selects one of the available options.
+
 ![Header](./frontend/public/asset/26.png)
 
 ![Verify Phone Number](./frontend/public/asset/27.png)
