@@ -7,6 +7,10 @@ DevLance is a web platform designed to connect employers with skilled freelancer
 ### Deploy on Vercel: https://codelance-mern-front-jd6mapdm3-abbas-projects-d1e5aa36.vercel.app/
 ![live website](./frontend/public/asset/CodeLance-Frontend.png)
 
+# Technologies: 
+- MERN stack (Mongo DB, Express.js, React.js, Node.js)
+- Tailwind Css
+
 # Demo
 
 When we click on one of the links on the main page (image above), we are redirected to the "auth" page, which is the login page. In this project, I have used the Twilio API to send and validate one-time password(OTP) via SMS to a specified mobile number, you can use the Twilio API. You should first verify a number that you own to use it as the 'To' number for outbound messages from the Sandbox Number.
@@ -128,7 +132,23 @@ The freelancer can use the filter feature for existing projects. They can apply 
 ![Verify Phone Number](./frontend/public/asset/33.png)
 
 In the end, I want to demonstrate that this project uses two cookies named accessToken and refreshToken. These tokens are uniquely generated based on each user's ID and are unique for each user regardless of their role. The accessToken expires after 24 hours, while the refreshToken expires after one year. By providing these cookies, the backend ensures the authenticity and access levels of users with different roles and IDs to various parts of the application. For example, a user with the freelancer role cannot access admin or owner-level permissions. <br>
-<h5>JavaScript can retrive cookies from websites, it is restricted from accessing cookies with the HttpOnly, which are accessible on the server-side. It's very secure</h5>
+<h5>JavaScript can retrieve cookies from websites, it is restricted from accessing cookies with the HttpOnly, which are accessible on the server-side. It's very secure</h5>
 
 ![Verify Phone Number](./frontend/public/asset/34.png)
+
+# Node Package Managers used in this project:
+- npm create vite@latest
+- npm i tailwind
+- npm i react-router-dom@latest
+- npm i react-icons react-otp-input
+- npm i axios
+- npm i @tanstack/react-query
+- npm i react-hot-toast
+- npm i react-loader-spinner
+- npm i react-hook-form
+- npm i react-tag-input-component
+- npm i react-multi-date-picker
+- npm i -D @tailwindcss/forms
+- npm i @headlessui/react
+  
 
