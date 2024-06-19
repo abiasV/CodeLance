@@ -136,7 +136,7 @@ In the end, I want to demonstrate that this project uses two cookies named acces
 
 ![Verify Phone Number](./frontend/public/asset/34.png)
 
-# Node Package Managers used in this project:
+## Node Package Managers used in this project:
 - npm create vite@latest
 - npm i tailwind
 - npm i react-router-dom@latest
