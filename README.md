@@ -100,11 +100,13 @@ Here we see that two freelancers have submitted proposals for this project. Thei
 After making a decision and selecting one of the proposals, the owner clicks on the "Change Status" link for the chosen proposal. As with previous similar actions, the owner selects one of the available options.
 ![Verify Phone Number](./frontend/public/asset/25.png)
 
-
+After approving one of the proposals, its status is updated in the database, and a success message is displayed as a notification.
 ![Header](./frontend/public/asset/26.png)
 
+Now, when we return to the previous page listing the owner's projects, we observe that the freelancer field is no longer empty (null); the approved freelancer has been assigned to the project.
 ![Verify Phone Number](./frontend/public/asset/27.png)
 
+Now, if you check the freelancer's dashboard, you will see that one more proposal has been approved, and it's wallet has been updated as well.
 ![Verify Phone Number](./frontend/public/asset/28.png)
 
 ![Header](./frontend/public/asset/29.png)
