@@ -111,6 +111,8 @@ Now, if you check the freelancer's dashboard, you will see that one more proposa
 
 ![Header](./frontend/public/asset/29.png)
 
+![Header](./frontend/public/asset/29-2.png)
+
 ![Verify Phone Number](./frontend/public/asset/30.png)
 
 ![Verify Phone Number](./frontend/public/asset/31.png)
