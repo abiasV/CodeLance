@@ -4,7 +4,7 @@ CodeLance is a web platform designed to connect employers with skilled freelance
 
 # Live Website: 
 
-### Deploy on Vercel: https://codelance-mern-front-jd6mapdm3-abbas-projects-d1e5aa36.vercel.app/
+### Deployed on Vercel: https://codelance-mern-front-jd6mapdm3-abbas-projects-d1e5aa36.vercel.app/
 ![live website](./frontend/public/asset/CodeLance-Frontend.png)
 
 # Technologies: 
