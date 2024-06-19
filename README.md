@@ -79,9 +79,10 @@ In the Projects section the Freelancer has access to view all projects created b
 The freelancer can only see the proposals that they themselves have proposed in their proposals section, along with the status of each proposal. (whether the Owner has approved it or not) <br>
 ![Verify Phone Number](./frontend/public/asset/18.png)
 
-Now we want to log in to the website with employer access and see the permissions an employer has. The employer can see a brief summary of their statistics, including the number of projects, the number of assigned projects, and the number of proposals that freelancers have submitted for their projects. <br>
+Now we want to log in to the website with owner access and see the permissions an owner has. The owner can see a brief summary of their statistics, including the number of projects, the number of assigned projects, and the number of proposals that freelancers have proposed for their projects. <br>
 ![Verify Phone Number](./frontend/public/asset/19.png)
 
+In the Projects section, each Owner can only see the projects they have created, unlike the admin and freelancers who can see all projects. Here, the Owner can create a new project, edit, or delete a project. The Owner can change the status of a project to open or close and can also view the proposals for each of their projects.
 ![Header](./frontend/public/asset/20.png)
 
 ![Verify Phone Number](./frontend/public/asset/21.png)
