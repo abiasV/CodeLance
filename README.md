@@ -76,22 +76,30 @@ Once the user approved by the admin, whose status in the database has changed fr
 In the Projects section the Freelancer has access to view all projects created by all employers. <br>
 ![Header](./frontend/public/asset/17.png)
 
-The freelancer can only see the proposals that they themselves have proposed in their proposals section, along with the status of each proposal. (whether the employer has approved it or not) <br>
+The freelancer can only see the proposals that they themselves have proposed in their proposals section, along with the status of each proposal. (whether the Owner has approved it or not) <br>
 ![Verify Phone Number](./frontend/public/asset/18.png)
 
+Now we want to log in to the website with owner access and see the permissions an owner has. The owner can see a brief summary of their statistics, including the number of projects, the number of assigned projects, and the number of proposals that freelancers have proposed for their projects. <br>
 ![Verify Phone Number](./frontend/public/asset/19.png)
 
+In the Projects section, each Owner can only see the projects they have created, unlike the admin and freelancers who can see all projects. Here, the Owner can create a new project, edit, or delete a project. The Owner can change the status of a project to open or close and can also view the proposals for each of their projects.
 ![Header](./frontend/public/asset/20.png)
 
+The owner can add a new project by clicking on Add Project.
 ![Verify Phone Number](./frontend/public/asset/21.png)
 
+When you click on Delete Project, a project deletion confirmation window opens as a backdrop. By clicking on Delete, the project is removed.
 ![Verify Phone Number](./frontend/public/asset/22.png)
 
+By clicking on one of the proposals for a project that has not been assigned, we want to check if any requests have been submitted for this project.
 ![Header](./frontend/public/asset/23.png)
 
-![Verify Phone Number](./frontend/public/asset/34.png)
+Here we see that two freelancers have submitted proposals for this project. Their status is set to "Pending Approval" by default. The owner needs to review these proposals and approve one based on their requirements.
+![Verify Phone Number](./frontend/public/asset/24.png)
 
+After making a decision and selecting one of the proposals, the owner clicks on the "Change Status" link for the chosen proposal. As with previous similar actions, the owner selects one of the available options.
 ![Verify Phone Number](./frontend/public/asset/25.png)
+
 
 ![Header](./frontend/public/asset/26.png)
 
