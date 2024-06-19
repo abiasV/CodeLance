@@ -76,9 +76,10 @@ Once the user approved by the admin, whose status in the database has changed fr
 In the Projects section the Freelancer has access to view all projects created by all employers. <br>
 ![Header](./frontend/public/asset/17.png)
 
-The freelancer can only see the proposals that they themselves have proposed in their proposals section, along with the status of each proposal. (whether the employer has approved it or not) <br>
+The freelancer can only see the proposals that they themselves have proposed in their proposals section, along with the status of each proposal. (whether the Owner has approved it or not) <br>
 ![Verify Phone Number](./frontend/public/asset/18.png)
 
+Now we want to log in to the website with employer access and see the permissions an employer has. The employer can see a brief summary of their statistics, including the number of projects, the number of assigned projects, and the number of proposals that freelancers have submitted for their projects. <br>
 ![Verify Phone Number](./frontend/public/asset/19.png)
 
 ![Header](./frontend/public/asset/20.png)
