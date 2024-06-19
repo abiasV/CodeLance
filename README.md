@@ -129,5 +129,6 @@ The freelancer can use the filter feature for existing projects. They can apply 
 
 In the end, I want to demonstrate that this project uses two cookies named accessToken and refreshToken. These tokens are uniquely generated based on each user's ID and are unique for each user regardless of their role. The accessToken expires after 24 hours, while the refreshToken expires after one year. By providing these cookies, the backend ensures the authenticity and access levels of users with different roles and IDs to various parts of the application. For example, a user with the freelancer role cannot access admin or owner-level permissions. <br>
 <h5>JavaScript can retrive cookies from websites, it is restricted from accessing cookies with the HttpOnly, which are accessible on the server-side. It's very secure</h5>
+
 ![Verify Phone Number](./frontend/public/asset/34.png)
 
