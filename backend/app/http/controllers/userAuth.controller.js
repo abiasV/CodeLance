@@ -301,7 +301,7 @@ async function checkOtp(req, res) {
   await setAccessToken(res, user);
   await setRefreshToken(res, user);
 
-  let WELLCOME_MESSAGE = `Code confirmed, welcome to Freelance Hub.`;
+  let WELLCOME_MESSAGE = `Code confirmed, welcome to CodeLance.`;
   if (!user.isActive)
       WELLCOME_MESSAGE = `Confirmed, Fill in details.`;
 

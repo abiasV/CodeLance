@@ -113,7 +113,7 @@ const Home = () => {
 							employers to post job listings and find the perfect candidates for
 							their projects. Freelancers can create detailed profiles, browse
 							job opportunities, and submit proposals, all in one secure and
-							user-friendly environment. At FreelanceHub, we believe in
+							user-friendly environment. At CodeLance, we believe in
 							fostering a dynamic and supportive freelance community where both
 							employers and freelancers can thrive.
 						</p>
@@ -124,7 +124,7 @@ const Home = () => {
 							communication, and a hassle-free experience. Whether you are an
 							employer looking to bring your project to life with the right
 							talent or a freelancer seeking exciting opportunities,
-							FreelanceHub is here to support you every step of the way. Join us
+							CodeLance is here to support you every step of the way. Join us
 							today and discover how we can help you achieve your professional
 							goals.
 						</p>
