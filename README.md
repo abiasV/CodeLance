@@ -85,13 +85,14 @@ Now we want to log in to the website with owner access and see the permissions a
 In the Projects section, each Owner can only see the projects they have created, unlike the admin and freelancers who can see all projects. Here, the Owner can create a new project, edit, or delete a project. The Owner can change the status of a project to open or close and can also view the proposals for each of their projects.
 ![Header](./frontend/public/asset/20.png)
 
+The owner can add a new project by clicking on Add Project.
 ![Verify Phone Number](./frontend/public/asset/21.png)
 
 ![Verify Phone Number](./frontend/public/asset/22.png)
 
 ![Header](./frontend/public/asset/23.png)
 
-![Verify Phone Number](./frontend/public/asset/34.png)
+![Verify Phone Number](./frontend/public/asset/24.png)
 
 ![Verify Phone Number](./frontend/public/asset/25.png)
 
