@@ -88,14 +88,19 @@ In the Projects section, each Owner can only see the projects they have created,
 The owner can add a new project by clicking on Add Project.
 ![Verify Phone Number](./frontend/public/asset/21.png)
 
+When you click on Delete Project, a project deletion confirmation window opens as a backdrop. By clicking on Delete, the project is removed.
 ![Verify Phone Number](./frontend/public/asset/22.png)
 
+By clicking on one of the proposals for a project that has not been assigned, we want to check if any requests have been submitted for this project.
 ![Header](./frontend/public/asset/23.png)
 
+Here we see that two freelancers have submitted proposals for this project. Their status is set to "Pending Approval" by default. The owner needs to review these proposals and approve one based on their requirements.
 ![Verify Phone Number](./frontend/public/asset/24.png)
 
+After making a decision and selecting one of the proposals, the owner clicks on the "Change Status" link for the chosen proposal.
 ![Verify Phone Number](./frontend/public/asset/25.png)
 
+As with previous similar actions, the owner selects one of the available options.
 ![Header](./frontend/public/asset/26.png)
 
 ![Verify Phone Number](./frontend/public/asset/27.png)
