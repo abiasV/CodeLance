@@ -109,17 +109,25 @@ Now, when we return to the previous page listing the owner's projects, we observ
 Now, if you check the freelancer's dashboard, you will see that one more proposal has been approved, and it's wallet has been updated as well.
 ![Verify Phone Number](./frontend/public/asset/28.png)
 
+The freelancer wants to submit a new proposal for a project recently added by the owner. By clicking on the operation link, a backdrop window opens.
 ![Header](./frontend/public/asset/29.png)
 
+The freelancer can submit their proposal for this project, specifying their asking price and the estimated time to complete the project.
 ![Header](./frontend/public/asset/29-2.png)
 
+With the addition of a new proposal, which is by default set to pending approval, the freelancer can see it in their proposals section to stay updated on the status of their request. The freelancer waits for the owner to approve it.
 ![Verify Phone Number](./frontend/public/asset/30.png)
 
+Now the owner can see the new proposal in their projects section by clicking on the proposals link for the specific project in their control panel and change its status accordingly.
 ![Verify Phone Number](./frontend/public/asset/31.png)
 
+Another feature of this project, which can be easily implemented using Tailwind CSS, is the ability to switch the theme from the default light mode to dark mode.
 ![Header](./frontend/public/asset/32.png)
 
+The freelancer can use the filter feature for existing projects. They can apply filters based on project status, category, and sort the results from oldest to newest or vice versa.
 ![Verify Phone Number](./frontend/public/asset/33.png)
 
+In the end, I want to demonstrate that this project uses two cookies named accessToken and refreshToken. These tokens are uniquely generated based on each user's ID and are unique for each user regardless of their role. The accessToken expires after 24 hours, while the refreshToken expires after one year. By providing these cookies, the backend ensures the authenticity and access levels of users with different roles and IDs to various parts of the application. For example, a user with the freelancer role cannot access admin or owner-level permissions. <br>
+<h5>JavaScript can retrive cookies from websites, it is restricted from accessing cookies with the HttpOnly, which are accessible on the server-side. It's very secure</h5>
 ![Verify Phone Number](./frontend/public/asset/34.png)
 
