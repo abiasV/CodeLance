@@ -12,7 +12,8 @@ CodeLance is a web platform designed to connect employers with skilled freelance
 
 # Demo
 
-When we click on one of the links on the main page (image above), we are redirected to the "auth" page, which is the login page. In this project, I have used the Twilio API to send and validate one-time password(OTP) via SMS to a specified mobile number, you can use the Twilio API. You should first verify a number that you own to use it as the 'To' number for outbound messages from the Sandbox Number.
+When we click on one of the links on the main page , we are redirected to the "auth" page, which is the login page. In this project, I have used the Twilio API to send and validate one-time password(OTP) via SMS to a specified mobile number, you can use the Twilio API. You should first verify a number that you own to use it as the 'To' number for outbound messages from the Sandbox Number.
+
 ![Verify Phone Number](./frontend/public/asset/35.png)
 
 - Sign Up for Twilio:
