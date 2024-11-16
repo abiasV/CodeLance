@@ -16,17 +16,7 @@ When we click on one of the links on the main page , we are redirected to the "a
 
 ![Verify Phone Number](./frontend/public/asset/35.png)
 
-- Sign Up for Twilio:
-
-    Go to Twilio and create an account.
-    Get your Twilio Account SID, Auth Token, and a Twilio phone number.
-
-- Install Twilio SDK:
-    Install the Twilio Node.js package by running:
-```
-npm install twilio
-```
-
+Register User:
 Enter your Phone Number:
 ![Enter your Phone Number](./frontend/public/asset/1.png)
 
