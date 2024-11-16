@@ -5,7 +5,6 @@ CodeLance is a web platform designed to connect employers with skilled freelance
 # Live Website: 
 
 ### Deployed on Vercel: https://codelance-mern-front-jd6mapdm3-abbas-projects-d1e5aa36.vercel.app/
-![live website](./frontend/public/asset/CodeLance-Frontend.png)
 
 # Technologies: 
 - MERN stack (Mongo DB, Express.js, React.js, Node.js)
