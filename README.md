@@ -28,19 +28,9 @@ The platform features a comprehensive user management system:
 ## Technical Implementation
 The architecture follows modern React practices with component-based design, custom hooks, and efficient state management patterns to ensure optimal performance and scalability.
 
-One of my favorite projects was CodeLance, a full-stack freelancing platform I developed as my Capstone Project during my Post-Graduate Certificate in Web Development at Humber College.
-This project is particularly special to me because it allowed me to fully utilize the MERN stack—React for the frontend, Node.js and Express for the backend, and MongoDB as the database. I implemented JWT authentication with a secure token-based authentication system using Access Tokens and Refresh Tokens, which enhanced security and ensured seamless user sessions. I also used OTP-based user verification for an additional layer of security.
-What I loved most about this project was the opportunity to design end-to-end workflows, including project posting, proposal submission, and messaging between employers and freelancers. It challenged me to think about scalable architecture, complex data relationships, and user-centered design, which deepened my understanding of full-stack development.
-Additionally, seeing the platform bring users together for seamless collaboration was incredibly rewarding. It wasn’t just about building a functional app; it was about creating an intuitive and meaningful user experience.
-This project reinforced my passion for MERN stack development and solidified my commitment to building scalable, user-centered applications. It was a great learning experience that demonstrated the impact of well-designed digital solutions on user interaction and engagement.
-
 # Live Website: 
 
 ### Deployed on Vercel: https://codelance-mern-front-jd6mapdm3-abbas-projects-d1e5aa36.vercel.app/
-
-# Technologies: 
-- MERN stack (Mongo DB, Express.js, React.js, Node.js)
-- Tailwind Css
 
 # Demo
 
@@ -174,3 +164,8 @@ In the end, I want to demonstrate that this project uses two cookies named acces
 - npm i @headlessui/react
   
 
+One of my favorite projects was CodeLance, a full-stack freelancing platform I developed as my Capstone Project during my Post-Graduate Certificate in Web Development at Humber College.
+This project is particularly special to me because it allowed me to fully utilize the MERN stack—React for the frontend, Node.js and Express for the backend, and MongoDB as the database. I implemented JWT authentication with a secure token-based authentication system using Access Tokens and Refresh Tokens, which enhanced security and ensured seamless user sessions. I also used OTP-based user verification for an additional layer of security.
+What I loved most about this project was the opportunity to design end-to-end workflows, including project posting, proposal submission, and messaging between employers and freelancers. It challenged me to think about scalable architecture, complex data relationships, and user-centered design, which deepened my understanding of full-stack development.
+Additionally, seeing the platform bring users together for seamless collaboration was incredibly rewarding. It wasn’t just about building a functional app; it was about creating an intuitive and meaningful user experience.
+This project reinforced my passion for MERN stack development and solidified my commitment to building scalable, user-centered applications. It was a great learning experience that demonstrated the impact of well-designed digital solutions on user interaction and engagement.
