@@ -1,4 +1,4 @@
-# CodeLance: Full-Stack Freelance Marketplace Platform (Capstone Project)
+# CodeLance: Full-Stack Freelancing Platform (Capstone Project)
 
 ## Project Overview
 This project is a web application where users with employer roles can create various projects for freelancer users to submit proposals. An admin user can monitor all these activities and control access permissions for other users.
