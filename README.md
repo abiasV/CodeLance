@@ -1,5 +1,20 @@
 # CodeLance
 
+Freelancer Web Application (Capstone Project)
+
+Developed a full-stack web application designed to connect employers and freelancers for project-based collaboration. Employers can create projects, freelancers can submit proposals, and an admin panel oversees all activities, including user access control.
+Tech Stack & Key Features:
+
+    Frontend: Built with React.js and styled using Tailwind CSS.
+    State Management: Utilized Context API for local state and TanStack Query for efficient remote data fetching and caching.
+    Form Handling: Implemented form validation using React Hook Form for a seamless user experience.
+    Authentication & Authorization:
+        OTP-based authentication via mobile number verification.
+        Role-based access control (RBAC) with three distinct roles: Admin, Freelancer, and Employer.
+
+This project showcases my expertise in React.js, state management, and secure authentication, aligning with best practices in modern web development. 🚀
+
+
 One of my favorite projects was CodeLance, a full-stack freelancing platform I developed as my Capstone Project during my Post-Graduate Certificate in Web Development at Humber College.
 This project is particularly special to me because it allowed me to fully utilize the MERN stack—React for the frontend, Node.js and Express for the backend, and MongoDB as the database. I implemented JWT authentication with a secure token-based authentication system using Access Tokens and Refresh Tokens, which enhanced security and ensured seamless user sessions. I also used OTP-based user verification for an additional layer of security.
 What I loved most about this project was the opportunity to design end-to-end workflows, including project posting, proposal submission, and messaging between employers and freelancers. It challenged me to think about scalable architecture, complex data relationships, and user-centered design, which deepened my understanding of full-stack development.
