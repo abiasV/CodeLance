@@ -2,17 +2,38 @@
 
 Freelancer Web Application (Capstone Project)
 
-Developed a full-stack web application designed to connect employers and freelancers for project-based collaboration. Employers can create projects, freelancers can submit proposals, and an admin panel oversees all activities, including user access control.
-Tech Stack & Key Features:
+Project Overview
+This project is a web application where users with employer roles can create various projects for freelancer users to submit proposals. An admin user can monitor all these activities and control access permissions for other users.
+Frontend Development
+The frontend is developed using React.js with Tailwind CSS for styling. For state management, I implemented:
 
-    Frontend: Built with React.js and styled using Tailwind CSS.
-    State Management: Utilized Context API for local state and TanStack Query for efficient remote data fetching and caching.
-    Form Handling: Implemented form validation using React Hook Form for a seamless user experience.
-    Authentication & Authorization:
-        OTP-based authentication via mobile number verification.
-        Role-based access control (RBAC) with three distinct roles: Admin, Freelancer, and Employer.
+Context API for local state management
+TanStack Query (formerly React Query) for remote state management and data fetching
+React Hook Form for form validation and handling
 
-This project showcases my expertise in React.js, state management, and secure authentication, aligning with best practices in modern web development. 🚀
+Authentication & Authorization
+The platform features a comprehensive user management system:
+
+Authentication via mobile number and OTP verification
+Role-based authorization system with three distinct roles:
+
+Admin: Full system oversight and user management
+Freelancer: Browse projects and submit proposals
+Owner (Employer): Create projects and review proposals
+
+
+
+Key Features
+
+Project creation and management for employers
+Proposal submission system for freelancers
+Admin dashboard for monitoring platform activities
+User role management and access control
+Secure authentication with OTP verification
+Responsive design for all device types
+
+Technical Implementation
+The architecture follows modern React practices with component-based design, custom hooks, and efficient state management patterns to ensure optimal performance and scalability.
 
 
 One of my favorite projects was CodeLance, a full-stack freelancing platform I developed as my Capstone Project during my Post-Graduate Certificate in Web Development at Humber College.
