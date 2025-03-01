@@ -1,40 +1,32 @@
-# CodeLance
+# CodeLance: Full-Stack Freelance Marketplace Platform (Capstone Project)
 
-Freelancer Web Application (Capstone Project)
-
-Project Overview
+## Project Overview
 This project is a web application where users with employer roles can create various projects for freelancer users to submit proposals. An admin user can monitor all these activities and control access permissions for other users.
-Frontend Development
+
+## Frontend Development
 The frontend is developed using React.js with Tailwind CSS for styling. For state management, I implemented:
+- Context API for local state management
+- TanStack Query (formerly React Query) for remote state management and data fetching
+- React Hook Form for form validation and handling
 
-Context API for local state management
-TanStack Query (formerly React Query) for remote state management and data fetching
-React Hook Form for form validation and handling
-
-Authentication & Authorization
+## Authentication & Authorization
 The platform features a comprehensive user management system:
+- Authentication via mobile number and OTP verification
+- Role-based authorization system with three distinct roles:
+  - Admin: Full system oversight and user management
+  - Freelancer: Browse projects and submit proposals
+  - Owner (Employer): Create projects and review proposals
 
-Authentication via mobile number and OTP verification
-Role-based authorization system with three distinct roles:
+## Key Features
+- Project creation and management for employers
+- Proposal submission system for freelancers
+- Admin dashboard for monitoring platform activities
+- User role management and access control
+- Secure authentication with OTP verification
+- Responsive design for all device types
 
-Admin: Full system oversight and user management
-Freelancer: Browse projects and submit proposals
-Owner (Employer): Create projects and review proposals
-
-
-
-Key Features
-
-Project creation and management for employers
-Proposal submission system for freelancers
-Admin dashboard for monitoring platform activities
-User role management and access control
-Secure authentication with OTP verification
-Responsive design for all device types
-
-Technical Implementation
+## Technical Implementation
 The architecture follows modern React practices with component-based design, custom hooks, and efficient state management patterns to ensure optimal performance and scalability.
-
 
 One of my favorite projects was CodeLance, a full-stack freelancing platform I developed as my Capstone Project during my Post-Graduate Certificate in Web Development at Humber College.
 This project is particularly special to me because it allowed me to fully utilize the MERN stack—React for the frontend, Node.js and Express for the backend, and MongoDB as the database. I implemented JWT authentication with a secure token-based authentication system using Access Tokens and Refresh Tokens, which enhanced security and ensured seamless user sessions. I also used OTP-based user verification for an additional layer of security.
